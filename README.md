@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Riz Mohammad 👋
 
-<!--
-**Devvrif/Devvrif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🤖 AI/ML Developer passionate about Python, machine learning, and building projects in public.  
+I focus on creating practical tools, sharing experiments, and learning every day.
 
-Here are some ideas to get you started:
+## Current Projects
+- **Contact Manager** – Python app to manage, search, and organize contacts efficiently.
+- **AI/ML Experiments** – Machine learning projects and models in Python.
+- **Expense Tracker** – Python app to track and analyze personal expenses.
+- **MoodMap** – Interactive tool to visualize and track mood patterns over time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python 🐍 | Machine Learning 🤖 | Data Analysis 📊  
+- Git & GitHub | API integration | Web scraping  
+
+## Open to
+- Collaboration 🤝  
+- Freelance / Consulting opportunities  
+- Networking & learning from the community  
